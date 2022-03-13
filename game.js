@@ -1,0 +1,31 @@
+const config = {
+  type: Phaser.AUTO,
+  parent: 'game',
+  width: 800,
+  heigth: 640,
+  scale: {
+    mode: Phaser.Scale.RESIZE,
+    autoCenter: Phaser.Scale.CENTER_BOTH
+  },
+  scene: {
+    preload,
+    create,
+    update,
+  },
+  physics: {
+    default: 'arcade',
+    arcade: {
+      gravity: { y: 500 },
+      debug: true
+    },
+  }
+};
+  
+const game = new Phaser.Game(config);
+
+function preload() {
+  this.load.image('background', 'assets/images/background.png');
+  this.load.image('tiles', 'assets/tilesets/swamp_tiles.png');
+  // Load the export Tiled JSON
+  this.load.tilemapTiledJSON('map', 'assets/tilemaps/swamp_level.json');
+}
