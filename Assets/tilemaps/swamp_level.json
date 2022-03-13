@@ -1,0 +1,416 @@
+{ "compressionlevel":-1,
+ "height":10,
+ "infinite":false,
+ "layers":[
+        {
+         "id":5,
+         "layers":[
+                {
+                 "compression":"",
+                 "data":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                 "encoding":"base64",
+                 "height":10,
+                 "id":4,
+                 "name":"Background_decoration",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":18,
+                 "x":0,
+                 "y":0
+                }, 
+                {
+                 "compression":"",
+                 "data":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAASwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+                 "encoding":"base64",
+                 "height":10,
+                 "id":3,
+                 "name":"Trees_plants",
+                 "opacity":1,
+                 "type":"tilelayer",
+                 "visible":true,
+                 "width":18,
+                 "x":0,
+                 "y":0
+                }],
+         "name":"bg_stuff",
+         "opacity":1,
+         "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"",
+         "data":"BwAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAgAAAAIAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8AAAA5AAAADAAAAAwAAAANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwAAAAIAAAACAAAAAgAAADkAAAAMAAAADAAAAAwAAAANAAAAAQAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAOQAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAANAAAACwAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAANAAAA",
+         "encoding":"base64",
+         "height":10,
+         "id":1,
+         "name":"Platforms",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":18,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":6,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.2",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":10,
+         "firstgid":1,
+         "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/1 Tiles\/Tileset.png",
+         "imageheight":192,
+         "imagewidth":320,
+         "margin":0,
+         "name":"swamp_level_tileset",
+         "spacing":0,
+         "tilecount":60,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":0,
+         "firstgid":61,
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"swamp_background_objects",
+         "spacing":0,
+         "tilecount":53,
+         "tileheight":183,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Trees\/1.png",
+                 "imageheight":103,
+                 "imagewidth":101
+                }, 
+                {
+                 "id":1,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Trees\/2.png",
+                 "imageheight":132,
+                 "imagewidth":104
+                }, 
+                {
+                 "id":2,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Trees\/3.png",
+                 "imageheight":150,
+                 "imagewidth":123
+                }, 
+                {
+                 "id":3,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Willows\/1.png",
+                 "imageheight":135,
+                 "imagewidth":104
+                }, 
+                {
+                 "id":4,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Willows\/2.png",
+                 "imageheight":168,
+                 "imagewidth":141
+                }, 
+                {
+                 "id":5,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Willows\/3.png",
+                 "imageheight":183,
+                 "imagewidth":199
+                }, 
+                {
+                 "id":14,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/1.png",
+                 "imageheight":15,
+                 "imagewidth":31
+                }, 
+                {
+                 "id":15,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/2.png",
+                 "imageheight":10,
+                 "imagewidth":30
+                }, 
+                {
+                 "id":16,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/3.png",
+                 "imageheight":15,
+                 "imagewidth":29
+                }, 
+                {
+                 "id":17,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/4.png",
+                 "imageheight":21,
+                 "imagewidth":31
+                }, 
+                {
+                 "id":18,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/5.png",
+                 "imageheight":28,
+                 "imagewidth":63
+                }, 
+                {
+                 "id":19,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/6.png",
+                 "imageheight":26,
+                 "imagewidth":31
+                }, 
+                {
+                 "id":20,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/7.png",
+                 "imageheight":24,
+                 "imagewidth":61
+                }, 
+                {
+                 "id":21,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/8.png",
+                 "imageheight":27,
+                 "imagewidth":63
+                }, 
+                {
+                 "id":22,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Bushes\/9.png",
+                 "imageheight":25,
+                 "imagewidth":61
+                }, 
+                {
+                 "id":23,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/1.png",
+                 "imageheight":18,
+                 "imagewidth":17
+                }, 
+                {
+                 "id":24,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/2.png",
+                 "imageheight":16,
+                 "imagewidth":17
+                }, 
+                {
+                 "id":25,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/3.png",
+                 "imageheight":16,
+                 "imagewidth":14
+                }, 
+                {
+                 "id":26,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/4.png",
+                 "imageheight":12,
+                 "imagewidth":12
+                }, 
+                {
+                 "id":27,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/5.png",
+                 "imageheight":13,
+                 "imagewidth":11
+                }, 
+                {
+                 "id":28,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/6.png",
+                 "imageheight":9,
+                 "imagewidth":11
+                }, 
+                {
+                 "id":29,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/7.png",
+                 "imageheight":14,
+                 "imagewidth":7
+                }, 
+                {
+                 "id":30,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/8.png",
+                 "imageheight":14,
+                 "imagewidth":8
+                }, 
+                {
+                 "id":31,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/9.png",
+                 "imageheight":8,
+                 "imagewidth":6
+                }, 
+                {
+                 "id":32,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Grass\/10.png",
+                 "imageheight":11,
+                 "imagewidth":9
+                }, 
+                {
+                 "id":39,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Stones\/1.png",
+                 "imageheight":59,
+                 "imagewidth":63
+                }, 
+                {
+                 "id":40,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Stones\/2.png",
+                 "imageheight":57,
+                 "imagewidth":47
+                }, 
+                {
+                 "id":41,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Stones\/3.png",
+                 "imageheight":63,
+                 "imagewidth":52
+                }, 
+                {
+                 "id":42,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Stones\/4.png",
+                 "imageheight":30,
+                 "imagewidth":57
+                }, 
+                {
+                 "id":43,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Stones\/5.png",
+                 "imageheight":31,
+                 "imagewidth":31
+                }, 
+                {
+                 "id":44,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Ridges\/1.png",
+                 "imageheight":26,
+                 "imagewidth":89
+                }, 
+                {
+                 "id":45,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Ridges\/2.png",
+                 "imageheight":28,
+                 "imagewidth":40
+                }, 
+                {
+                 "id":46,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Ridges\/3.png",
+                 "imageheight":41,
+                 "imagewidth":109
+                }, 
+                {
+                 "id":47,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Ridges\/4.png",
+                 "imageheight":61,
+                 "imagewidth":65
+                }, 
+                {
+                 "id":48,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Ridges\/5.png",
+                 "imageheight":29,
+                 "imagewidth":81
+                }, 
+                {
+                 "id":49,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Ridges\/6.png",
+                 "imageheight":55,
+                 "imagewidth":47
+                }, 
+                {
+                 "id":50,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/1.png",
+                 "imageheight":21,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":51,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/2.png",
+                 "imageheight":21,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":52,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/3.png",
+                 "imageheight":21,
+                 "imagewidth":13
+                }, 
+                {
+                 "id":53,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/4.png",
+                 "imageheight":21,
+                 "imagewidth":13
+                }, 
+                {
+                 "id":54,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/5.png",
+                 "imageheight":21,
+                 "imagewidth":13
+                }, 
+                {
+                 "id":55,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/6.png",
+                 "imageheight":21,
+                 "imagewidth":13
+                }, 
+                {
+                 "id":56,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/7.png",
+                 "imageheight":21,
+                 "imagewidth":13
+                }, 
+                {
+                 "id":57,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Pointers\/8.png",
+                 "imageheight":21,
+                 "imagewidth":11
+                }, 
+                {
+                 "id":58,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Fence\/1.png",
+                 "imageheight":18,
+                 "imagewidth":23
+                }, 
+                {
+                 "id":59,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Fence\/2.png",
+                 "imageheight":20,
+                 "imagewidth":25
+                }, 
+                {
+                 "id":60,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Fence\/3.png",
+                 "imageheight":13,
+                 "imagewidth":16
+                }, 
+                {
+                 "id":61,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Boxes\/1.png",
+                 "imageheight":28,
+                 "imagewidth":34
+                }, 
+                {
+                 "id":62,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Boxes\/2.png",
+                 "imageheight":27,
+                 "imagewidth":34
+                }, 
+                {
+                 "id":63,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Boxes\/3.png",
+                 "imageheight":26,
+                 "imagewidth":27
+                }, 
+                {
+                 "id":64,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Boxes\/4.png",
+                 "imageheight":26,
+                 "imagewidth":33
+                }, 
+                {
+                 "id":65,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Boxes\/5.png",
+                 "imageheight":27,
+                 "imagewidth":34
+                }, 
+                {
+                 "id":66,
+                 "image":"..\/tilesets\/free-swamp-game-tileset-pixel-art\/3 Objects\/Boxes\/6.png",
+                 "imageheight":26,
+                 "imagewidth":27
+                }],
+         "tilewidth":199
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.8",
+ "width":18
+}
