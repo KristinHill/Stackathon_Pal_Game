@@ -1,0 +1,52 @@
+{"frames": {
+
+"Chest.png":
+{
+	"frame": {"x":0,"y":16,"w":128,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":32},
+	"sourceSize": {"w":128,"h":32}
+},
+"Coin.png":
+{
+	"frame": {"x":0,"y":0,"w":40,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":10},
+	"sourceSize": {"w":40,"h":10}
+},
+"Flag.png":
+{
+	"frame": {"x":0,"y":48,"w":192,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":48},
+	"sourceSize": {"w":192,"h":48}
+},
+"Key.png":
+{
+	"frame": {"x":40,"y":0,"w":48,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":8},
+	"sourceSize": {"w":48,"h":8}
+},
+"Rune.png":
+{
+	"frame": {"x":88,"y":0,"w":64,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":16},
+	"sourceSize": {"w":64,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "animated_objects_swamo.png",
+	"format": "RGBA8888",
+	"size": {"w":192,"h":96},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:48c69d4ce697c25b49f8b45a49fbe1a1:c0f83a56d2fc82da554a7c50ae27fafd:08338807ed47dbfe520911ede489c5d6$"
+}
+}

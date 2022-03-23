@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "updated_sprites_phaser3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1304,
+				"h": 29
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "pug spritesheet wag.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 448,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 444,
+						"h": 27
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 444,
+						"h": 27
+					}
+				},
+				{
+					"filename": "yawn_layer.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 448,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 444,
+						"h": 27
+					},
+					"frame": {
+						"x": 447,
+						"y": 1,
+						"w": 444,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pal_stand_sprite.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 12,
+						"w": 316,
+						"h": 27
+					},
+					"frame": {
+						"x": 893,
+						"y": 1,
+						"w": 316,
+						"h": 27
+					}
+				},
+				{
+					"filename": "pug spritesheet.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 96,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 92,
+						"h": 27
+					},
+					"frame": {
+						"x": 1211,
+						"y": 1,
+						"w": 92,
+						"h": 27
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d0155a967ea4fea785d939787cc35d03:7410b1f3fb3bb139c00edf216eea1050:c5363cea41f2516595d00c0659809bf9$"
+	}
+}
