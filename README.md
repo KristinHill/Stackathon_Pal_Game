@@ -1,6 +1,6 @@
 # Stackathon_Pal_Game
 
-Sidescrolling pug adventure made with Phaser 3
+Sidescrolling platformer pug adventure made with Phaser 3
 
 Maps made in Tiled
 
